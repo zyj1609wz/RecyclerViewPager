@@ -1,0 +1,8 @@
+<resources>
+    <color name="window_background">#FFF5F5F5</color>
+
+
+    <color name="item_pressed_color">#CCCCCC</color>
+    <color name="item_activated_color">#77CEEE</color>
+
+</resources>
