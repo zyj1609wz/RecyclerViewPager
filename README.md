@@ -1,16 +1,6 @@
 # RecyclerViewPager
-A ViewPager implemention base on RecyclerView. Support fling operation like gallary.
 
 android.support.v4.view.ViewPager的完美替代品
-
-## Features:
-1. Base on RecyclerView.
-2. Custom fling factor.
-3. Custom paging trigger.
-4. Support Vertical and Horizontal orientation.
-5. Support FragmentViewPager (api 12+)
-6. Infinite-Loop-ViewPager
-7. Support TabLayout
 
 ## 特性:
 1. 扩展自RecyclerView.
