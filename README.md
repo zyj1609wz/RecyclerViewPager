@@ -8,8 +8,8 @@ android.support.v4.view.ViewPager的完美替代品
 3. 可自定义翻页触发条件.
 
 
-!(https://github.com/zyj1609wz/RecyclerViewPager/blob/master/v1.gif)
-!(https://github.com/zyj1609wz/RecyclerViewPager/blob/master/v2.gif)
+![RecyclerViewPager](https://github.com/zyj1609wz/RecyclerViewPager/blob/master/v1.gif)
+![RecyclerViewPager](https://github.com/zyj1609wz/RecyclerViewPager/blob/master/v2.gif)
 
 
 ## Usage
