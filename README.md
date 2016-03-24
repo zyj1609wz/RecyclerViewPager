@@ -22,9 +22,9 @@ android.support.v4.view.ViewPager的完美替代品
 6. 支持无限循环
 7. 支持和TabLayout配合使用
 
-![RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager/blob/master/vertical.gif)
-![RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager/blob/master/horizontal.gif)
-![RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)
+![RecyclerViewPager](https://github.com/zyj1609wz/RecyclerViewPager/blob/master/v1.gif)
+![RecyclerViewPager](https://github.com/zyj1609wz/RecyclerViewPager/blob/master/v2.gif)
+
 
 ## Usage
 
