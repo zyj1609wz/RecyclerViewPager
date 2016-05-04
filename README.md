@@ -14,9 +14,6 @@ android.support.v4.view.ViewPager的完美替代品
 
 ## Usage
 
-### how to import?
-add this into gradle
-
 add proguard rules if need
 
 	-keep class com.lsjwzh.widget.recyclerviewpager.**
